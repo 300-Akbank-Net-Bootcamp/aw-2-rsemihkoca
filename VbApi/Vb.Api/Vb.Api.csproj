@@ -36,6 +36,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\Vb.Data\Vb.Data.csproj" />
+      <ProjectReference Include="..\Vb.Schema\Vb.Schema.csproj" />
     </ItemGroup>
 
     <ItemGroup>

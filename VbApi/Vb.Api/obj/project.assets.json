@@ -4020,6 +4020,16 @@
         "runtime": {
           "bin/placeholder/Vb.Data.dll": {}
         }
+      },
+      "Vb.Schema/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Vb.Schema.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Vb.Schema.dll": {}
+        }
       }
     }
   },
@@ -11759,6 +11769,11 @@
       "type": "project",
       "path": "../Vb.Data/Vb.Data.csproj",
       "msbuildProject": "../Vb.Data/Vb.Data.csproj"
+    },
+    "Vb.Schema/1.0.0": {
+      "type": "project",
+      "path": "../Vb.Schema/Vb.Schema.csproj",
+      "msbuildProject": "../Vb.Schema/Vb.Schema.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -11771,7 +11786,8 @@
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 7.0.11",
       "Npgsql.EntityFrameworkCore.PostgreSQL >= 7.0.11",
       "Swashbuckle.AspNetCore >= 6.4.0",
-      "Vb.Data >= 1.0.0"
+      "Vb.Data >= 1.0.0",
+      "Vb.Schema >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -11801,6 +11817,9 @@
           "projectReferences": {
             "/home/rsemihkoca/Projects/aw-2-rsemihkoca/VbApi/Vb.Data/Vb.Data.csproj": {
               "projectPath": "/home/rsemihkoca/Projects/aw-2-rsemihkoca/VbApi/Vb.Data/Vb.Data.csproj"
+            },
+            "/home/rsemihkoca/Projects/aw-2-rsemihkoca/VbApi/Vb.Schema/Vb.Schema.csproj": {
+              "projectPath": "/home/rsemihkoca/Projects/aw-2-rsemihkoca/VbApi/Vb.Schema/Vb.Schema.csproj"
             }
           }
         }

@@ -1,0 +1,9 @@
+using Vb.Data.Abstract;
+using Vb.Data.Entity;
+
+namespace VbApi.Abstract;
+
+public interface IAccountTransactionService : IGenericService<AccountTransaction>
+{
+    
+}

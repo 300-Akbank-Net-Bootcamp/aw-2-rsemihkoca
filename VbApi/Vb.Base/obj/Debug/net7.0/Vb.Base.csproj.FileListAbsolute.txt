@@ -1,0 +1,12 @@
+/home/rsemihkoca/Projects/aw-2-rsemihkoca/VbApi/Vb.Base/bin/Debug/net7.0/Vb.Base.deps.json
+/home/rsemihkoca/Projects/aw-2-rsemihkoca/VbApi/Vb.Base/bin/Debug/net7.0/Vb.Base.dll
+/home/rsemihkoca/Projects/aw-2-rsemihkoca/VbApi/Vb.Base/bin/Debug/net7.0/Vb.Base.pdb
+/home/rsemihkoca/Projects/aw-2-rsemihkoca/VbApi/Vb.Base/obj/Debug/net7.0/Vb.Base.GeneratedMSBuildEditorConfig.editorconfig
+/home/rsemihkoca/Projects/aw-2-rsemihkoca/VbApi/Vb.Base/obj/Debug/net7.0/Vb.Base.AssemblyInfoInputs.cache
+/home/rsemihkoca/Projects/aw-2-rsemihkoca/VbApi/Vb.Base/obj/Debug/net7.0/Vb.Base.AssemblyInfo.cs
+/home/rsemihkoca/Projects/aw-2-rsemihkoca/VbApi/Vb.Base/obj/Debug/net7.0/Vb.Base.csproj.CoreCompileInputs.cache
+/home/rsemihkoca/Projects/aw-2-rsemihkoca/VbApi/Vb.Base/obj/Debug/net7.0/Vb.Base.sourcelink.json
+/home/rsemihkoca/Projects/aw-2-rsemihkoca/VbApi/Vb.Base/obj/Debug/net7.0/Vb.Base.dll
+/home/rsemihkoca/Projects/aw-2-rsemihkoca/VbApi/Vb.Base/obj/Debug/net7.0/refint/Vb.Base.dll
+/home/rsemihkoca/Projects/aw-2-rsemihkoca/VbApi/Vb.Base/obj/Debug/net7.0/Vb.Base.pdb
+/home/rsemihkoca/Projects/aw-2-rsemihkoca/VbApi/Vb.Base/obj/Debug/net7.0/ref/Vb.Base.dll
